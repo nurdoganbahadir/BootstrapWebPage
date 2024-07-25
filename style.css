@@ -27,3 +27,14 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+.yigit{
+  border: 15px solid rgb(177, 177, 177);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+}
+.yigit p{
+  font-size: 5rem !important;
+}
