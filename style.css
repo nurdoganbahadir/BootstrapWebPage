@@ -10,6 +10,17 @@
   width: 150px;
   height: 150px;
 }
-.fw-light{
+.fw-light {
   font-size: 62px;
+}
+.portfolio-cls {
+  width: 75%;
+  align-items: center;
+  justify-content: center;
+}
+.bg-light {
+  height: 100vh;
+}
+.card {
+  max-width: 350px;
 }
