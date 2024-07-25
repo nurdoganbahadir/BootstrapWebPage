@@ -38,3 +38,7 @@
 .yigit p{
   font-size: 5rem !important;
 }
+.links{
+  cursor: pointer;
+  font-size: 3rem;
+}
