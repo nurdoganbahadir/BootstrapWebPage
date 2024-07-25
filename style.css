@@ -18,9 +18,6 @@
   align-items: center;
   justify-content: center;
 }
-.bg-light {
-  height: 100vh;
-}
 .card {
   max-width: 350px;
 }
