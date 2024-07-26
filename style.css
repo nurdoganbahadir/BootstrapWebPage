@@ -48,8 +48,10 @@
   align-items: center;
 }
 .footer-bg {
-  /* background-image: url(./images/datascience.jpg);
-  background-repeat: no-repeat; */
+  background-image: url(./images/bg-image2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .myinput {
   display: flex;
