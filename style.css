@@ -21,13 +21,13 @@
 .card {
   max-width: 350px;
 }
-.image-div{
+.image-div {
   background-image: url(./images/fs1.jpg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
 }
-.yigit{
+.yigit {
   border: 15px solid rgb(177, 177, 177);
   display: flex;
   justify-content: center;
@@ -35,15 +35,39 @@
   width: 250px;
   height: 250px;
 }
-.yigit p{
+.yigit p {
   font-size: 5rem !important;
 }
-.links{
+.links {
   cursor: pointer;
   font-size: 3rem;
 }
-.col{
+.col {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.footer-bg {
+  /* background-image: url(./images/datascience.jpg);
+  background-repeat: no-repeat; */
+}
+.myinput {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+input {
+  width: 90%;
+  height: 50px;
+}
+.textArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+textarea {
+  width: 90%;
+  height: 100%;
 }
